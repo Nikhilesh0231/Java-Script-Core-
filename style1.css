@@ -1,0 +1,54 @@
+/* this is for script1 */
+/* #heading{
+  color: red;
+  text-decoration: line-through;
+  background-color: beige;
+}
+
+.head{
+  font-style: italic;
+}
+
+body{
+  background-color: pink;
+}
+button{
+  background-color: blue;
+  color: white;
+}
+
+.box{
+  height: 100px;
+  width: 100px;
+  border: 2px solid red;
+  margin: 5px;
+  text-align: center;
+  background-color: seashell;
+}
+
+#box1{
+  height: 100px;
+  width: 150px;
+  background-color: aquamarine;
+  color: red;
+  border: 1px solid black;
+} */
+
+
+
+/* for script 2 */
+
+/* #box{
+  height: 200px;
+  width: 200px;background-color: yellow;color: white;
+  border: 1px solid red;
+} */
+
+/* for script 3 */
+.content{
+  color: red;
+}
+
+.newClass{
+  background-color: aqua;
+}

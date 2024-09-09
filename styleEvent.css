@@ -1,0 +1,16 @@
+div{
+  height: 100px;
+  width: 200px;
+  border: 1px double red;
+  background-color: turquoise;
+  color: white;
+}
+.dark{
+  background-color: black;
+  color: white;
+}
+
+.light{
+  background-color: white;
+  color: black;
+}
